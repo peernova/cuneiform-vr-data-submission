@@ -1,4 +1,4 @@
-# ClearConsensus API Upload Instructions
+# Cuneiform for Valuation Risk API Upload Instructions
 
 ## Table of Contents
 1. [Initial Setup](#initial-setup)
@@ -82,7 +82,7 @@ Note: If you're using a different environment, replace the URL with the appropri
 
 1. Check the console output for any error messages or upload status for each file.
 2. Verify that the files have been moved from the `Input` folder to the `Uploaded` folder.
-3. Log into the ClearConsensus platform and check the submission status for data quality issues (optional).
+3. Log into the Cuneiform for Valuation Risk platform and check the submission status for data quality issues (optional).
 
 ## Troubleshooting
 
